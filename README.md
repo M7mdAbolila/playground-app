@@ -8,15 +8,22 @@ A Flutter project showcasing various Flutter widgets and features for learning a
    - Custom auto-complete implementation for drug search
    - Data-driven suggestions from JSON data source
    - User-friendly interface
+   - ### Demo
+   https://github.com/user-attachments/assets/524e1d5a-e83e-430c-9878-f28d7b489a68
 
 2. **Selection Area**
-   - Demonstrates the usage of SelectableText widget
+   - Demonstrates the usage of SelectionArea widget
    - Text selection functionality
    - Custom selection behavior
+   - ### Demo
+   https://github.com/user-attachments/assets/581faf71-f9ea-4097-9b82-1d153db7731f
 
 3. **AbsorbPointer Example**
    - Shows how to handle and control touch events
    - Demonstrates widget interaction blocking
+   - ### Demo
+   https://github.com/user-attachments/assets/0f30f4a9-c8e8-4585-bbdc-c09e91ffb3c3
+
 
 ## Project Structure
 
