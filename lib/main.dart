@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'my_app.dart';
+import 'playground_app.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const PlaygroundApp());
 }
-
-

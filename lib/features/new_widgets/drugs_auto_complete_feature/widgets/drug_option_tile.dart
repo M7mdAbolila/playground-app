@@ -13,13 +13,13 @@ class DrugOptionTile extends StatelessWidget {
     return ListTile(
       title: Text(
         drug.tradename,
-        style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
+        style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
         overflow: TextOverflow.ellipsis,
       ),
 
       subtitle: Text(
         drug.company,
-        style: TextStyle(
+        style: const TextStyle(
           fontSize: 16,
           fontWeight: FontWeight.w500,
           color: Colors.teal,
